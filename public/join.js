@@ -1,5 +1,5 @@
 // const socketa = io("http://localhost:3000/", { transports: ["websocket"] })
-const socket = io("https://chesshost.onrender.com/", { transports: ["websocket"] })
+const socket = io("http://localhost:3000/", { transports: ["websocket"] })
 
 
 
