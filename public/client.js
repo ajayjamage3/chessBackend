@@ -38,7 +38,7 @@ var handleMove = function (source, target) {
 
 // var socket = io();
 
-window.onclick = function (e) {
+window.onload = function (e) {
   socket.emit('message', 'I am client');
 };
 
