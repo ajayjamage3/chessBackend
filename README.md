@@ -62,7 +62,7 @@
 ## More Project Details :-
 
 - Type : Group Project
-- Duration of Project - 6 Days
+- Duration of Project - 5 Days
 - Total Members who contributed - 5
   - <a style="color:#ffd41f" href="https://www.linkedin.com/in/saurav-sharma-931262178/">Saurav Sharma</a>
   - <a style="color:#ffd41f" href="https://www.linkedin.com/in/ajay-jamage-92b1b71b4/">Ajay Jamage</a>
