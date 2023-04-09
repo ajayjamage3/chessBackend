@@ -53,9 +53,6 @@
 ### Main chess page
 ![png](https://i.ibb.co/7J1LDvv/chess3.png)
 
-### Getting request from user to play
-![png](https://i.ibb.co/7ky0hny/chess2.png)
-
 ### Choosing white or black rotation
 ![png]https://i.ibb.co/7ky0hny/chess2.png)
 
