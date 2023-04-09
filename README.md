@@ -54,7 +54,7 @@
 ![png](https://i.ibb.co/7J1LDvv/chess3.png)
 
 ### Choosing white or black rotation
-![png]https://i.ibb.co/7ky0hny/chess2.png)
+![png](https://i.ibb.co/7ky0hny/chess2.png)
 
 ### Sending messages through chat to the user
 ![png](https://i.ibb.co/bFhdZLZ/chess1.png)
